@@ -98,6 +98,7 @@ top/bottom, side by side, **2-over-1**, or in quarters, and add more panes as yo
 ## Links
 
 - **Download &amp; releases:** https://huggingface.co/OhBeOneKeyNoBe/YahBible
+- **Presentation (PDF, with QR codes &mdash; share freely):** [The YahBible Scripture Study Presentation](The_YahBible_Scripture_Study_Presentation.pdf)
 - **Home:** [www.RealizeUS.me/@yahwehtsidkenu](https://www.RealizeUS.me/@yahwehtsidkenu)
 
 ---
