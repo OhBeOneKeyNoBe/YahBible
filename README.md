@@ -1,111 +1,101 @@
-# YahBible &mdash; a Bible, Scripture, Word &amp; Verse study app
+# YahBible
 
-**Study the Word as it was spoken &mdash; verse by verse, tongue by tongue.**
+**The whole counsel of Scripture — to read, search and study, in the original Hebrew, Greek and Aramaic, on any device, offline.**
 
-YahBible is a free desktop app for deep study and comparison of the Bible and the other sacred
-literatures &mdash; a custom reader, a Hebrew/Greek/Aramaic word engine, Strong's + interlinear,
-and (coming soon) a grounded AI. It runs **right out of the box on Windows** &mdash; download one
-file and go.
+YahBible gathers the King James Bible and 120+ translations, a full Hebrew/Greek/Aramaic word-study engine, the apocryphal and second-temple library, the Scriptural cosmology, and a grounded study guide into one app — on the web, on the desktop, and on your phone. Install it once and it works with no connection at all.
 
-![YahBible fully loaded](https://huggingface.co/OhBeOneKeyNoBe/YahBible/resolve/main/screenshots/01_loaded.png)
-
-> **Pre-release.** YahBible is tweaked and expanded **daily** and updates itself over the network.
-> Expect it to keep getting better on its own. Found a bug? Report it inside the app
-> (**Report a bug**) and it goes straight to the creator.
+**Read it now:** <https://realizeus.org/yahbible> · Part of [RealizeUS](https://realizeus.org)
 
 ---
 
-## &#128229; Install &mdash; the easy way
+## The problems YahBible solves
 
-**Just run it (no install):**
-1. Download **[`YahBible.exe`](https://huggingface.co/OhBeOneKeyNoBe/YahBible/resolve/main/YahBible.exe)**.
-2. **Double-click** it.
-3. It opens in your browser at `127.0.0.1`. That's it.
-
-**Or install it** for a permanent home + a Start-menu / taskbar icon: run `YahBible.exe` and choose
-**Install**, then pin the icon.
-
-On **first run** it downloads its study library (~**1.2 GB**), so the app is usable within moments;
-the full deep lexicon then finishes in the background. After that it works **offline**. No account
-is needed to read and study.
-
-> Windows may show a SmartScreen notice for a new publisher &mdash; choose **More info &rarr; Run
-> anyway**. YahBible runs entirely on your own machine.
+| The problem | What YahBible does |
+| --- | --- |
+| Study is scattered across a dozen tools and tabs | One app unifies the Bible, 120+ versions, the Hebrew/Greek/Aramaic lexicon and interlinear, the apocrypha, the cosmology and an AI guide. |
+| Original-language study is gated and hard | Strong's, transliteration and cross-corpus usage for any word, one tap away — no paywall, no seminary prerequisite. |
+| Apocryphal & second-temple texts are buried | Enoch, Nag Hammadi, the Dead Sea Scrolls, Josephus and the rabbinic corpora, gathered into one searchable, cited library. |
+| Tools break when the signal does | Installs as an app; the Scripture packs live on your device, so the whole thing works on a plane, in the field, or off-grid. |
+| Teaching the Word online is clunky | Studio Mode plus a built-in greenscreen camera turns study into a stream-ready presentation with no extra software. |
+| Accounts don't follow you | One RealizeUS account keeps your profile, notes and reading progress in sync across web, desktop and phone. |
 
 ---
 
-## &#10024; What you can do with it
+## Features
 
-### The reading desk &mdash; the whole counsel of Scripture
-Sources on the left (Torah, Old &amp; New Testament, Ethiopian Apocrypha, Red Letter Words, the
-Gnostic scriptures and more), the reader in the center, and a study panel on the right &mdash; with
-**120+ versions** you can stack side by side, verse for verse.
+### Read every version, side by side
+The King James Bible with 120+ English and original-language translations, verse for verse. Search however you remember a passage — “3:16 John”, “the 23rd Psalm” — and switch versions without losing your place.
 
-![The home view](https://huggingface.co/OhBeOneKeyNoBe/YahBible/resolve/main/screenshots/02_home.png)
+![Reader](screenshots/reader.png)
 
-### Word study &mdash; every word in Hebrew, Greek &amp; Aramaic
-Click any word for its original-language study: **Hebrew, Greek, and Aramaic** forms,
-transliteration, **letter-by-letter meaning**, and **gematria**.
+### The Ten Commandments, taught in full
+Open any commandment in the centre and read it four ways at once: its Scripture, what it forbids, how to keep it inwardly, and the cross-references — with Repentance and the way of prayer one tap away.
 
-![Word study in Hebrew, Greek and Aramaic](https://huggingface.co/OhBeOneKeyNoBe/YahBible/resolve/main/screenshots/03_wordstudy.png)
+![The Ten Commandments](screenshots/commandments.png)
 
-### Word definitions, Strong's &amp; interlinear
-Each word carries its **Strong's number**, **dictionary definition**, and the **interlinear**
-original under each verse &mdash; the scholarly layer, built in.
+### Hebrew, Greek & Aramaic word study — for anyone
+Tap any word in the Old or New Testament for its original Hebrew, Greek or Aramaic, its Strong's number, its transliteration and letter-by-letter meaning, and every place it is used across Scripture. The kind of study that used to demand a lexicon, an interlinear and a concordance — now one tap, and it works offline.
 
-![Word definitions and Strong's](https://huggingface.co/OhBeOneKeyNoBe/YahBible/resolve/main/screenshots/04_definition.png)
+![Word study](screenshots/wordstudy.png)
 
-### Red Letter Words &mdash; the words of Yeshua the Christ
-The words of Christ from the Gospels and Revelation, in the **KJV**, set apart in scarlet &mdash;
-one click opens any of them in their full chapter context.
+### Verse study with every translation lined up
+Select a verse to study it with the other versions stacked beneath it, and compare renderings in seconds.
 
-![Red Letter Words](https://huggingface.co/OhBeOneKeyNoBe/YahBible/resolve/main/screenshots/05_redletter.png)
+![Verse study](screenshots/versestudy.png)
 
-### The Logos &mdash; the revelation of the Name
-The Name behind every &ldquo;LORD&rdquo; in the text &mdash; **YHWH / Yahweh Tsidkenu** &mdash; the
-Word, the Truth, the Breath, studied in depth.
+### Uriel's Heavenly Design — 2D disc & 3D dome
+The Scriptural cosmology as an interactive model: the flat disc and the firmament dome, the ten ascending heavens, the four underworld hollows, the sun's doors and the wind gates. Run the 364-day year and click any gate, heaven or hollow to inspect it.
 
-![The Logos](https://huggingface.co/OhBeOneKeyNoBe/YahBible/resolve/main/screenshots/06_logos.png)
+![Uriel's Heavenly Design](screenshots/flatearth.png)
 
-### Study side by side &mdash; many sources at once
-Split the reading desk into independent panes and load a **different source in each** &mdash; here
-**Genesis** (Old Testament), the **Red Letter Words** of Christ (Matthew 5, in scarlet), and
-**Revelation** (New Testament), all fully loaded and scrollable at the same time. Stack them
-top/bottom, side by side, **2-over-1**, or in quarters, and add more panes as you go.
+### The Gnostic lineage, mapped
+Trace the aeons and emanations from the Monad to Adam and Eve; tap any being to open its details and citations.
 
-![Three different sources open at once, 2-over-1](https://huggingface.co/OhBeOneKeyNoBe/YahBible/resolve/main/screenshots/07_panes.png)
+![Gnostic lineage](screenshots/lineage.png)
 
-### In development (visible in the app, arriving soon)
-- **Ask Tav'iel** &mdash; a grounded AI that answers from Scripture and the words of Christ, with
-  verbatim citations, never fabricated.
-- **YouTube / TikTok Critique** &mdash; pull any video's transcript and weigh every claim against
-  the words of Yeshua the Christ (a *Holy Review*), comparing multiple sources at once.
+### Repentance & how to pray
+A guided turn toward the Father — repentance and the way of salvation, with an actual prayer to pray, all in Scripture's own words.
 
----
+![Repentance](screenshots/repentance.png)
 
-## Why it's useful
+### The whole library in one menu
+1–3 Enoch, the Nag Hammadi and gnostic scriptures, the Torah in pure Hebrew, Pistis Sophia, the Dead Sea Scrolls, Josephus, the Mishnah, Talmud, Targums, Midrash and the wider apocrypha — gathered and searchable.
 
-- **See the original, not just a translation.** Trace any word to its Hebrew/Greek/Aramaic root,
-  its Strong's entry, and the interlinear &mdash; without paying for a study suite.
-- **Compare instead of trusting one rendering.** 120+ versions side by side reveal where
-  translations agree, differ, or soften the text.
-- **Weigh everything by the words of Christ.** The Red Letter layer and the Name study keep
-  Yeshua's own words at the center of your study.
-- **Yours, local, private.** Runs in your own browser on your own machine; no account to read.
+![The library](screenshots/library.png)
+
+### Tav'iel — a guide that cites its sources
+Ask anything and Tav'iel answers from Scripture, citing chapter and verse, grounded in the text rather than guessing.
+
+![Tav'iel](screenshots/taviel.png)
+
+### Camera & greenscreen for teaching
+Front, back, or both cameras with real background-removal greenscreen and draggable overlays — everything a teacher or streamer needs to present the Word.
+
+![Camera & greenscreen](screenshots/camera.png)
 
 ---
 
-## Links
+## Get YahBible
 
-- **Download &amp; releases:** https://huggingface.co/OhBeOneKeyNoBe/YahBible
-- **Presentation (PDF, with QR codes &mdash; share freely):** [The YahBible Scripture Study Presentation](The_YahBible_Scripture_Study_Presentation.pdf)
-- **Home:** [www.RealizeUS.me/@yahwehtsidkenu](https://www.RealizeUS.me/@yahwehtsidkenu)
+| Platform | How |
+| --- | --- |
+| **iPhone & iPad** | Open <https://realizeus.org/yahbible> in Safari, tap **Share → Add to Home Screen**. It installs like an app and reads its packs on-device. |
+| **Android** | Install the APK from this repository (or the [GitHub releases](https://github.com/OhBeOneKeyNoBe/YahBible-Mobile/releases/latest)), or add the web app to your home screen from Chrome's menu. |
+| **Desktop (Windows)** | The full-power desktop edition with every study tool and the AI guide: [GitHub releases](https://github.com/OhBeOneKeyNoBe/YahBible/releases/latest). |
+| **Web** | Just open <https://realizeus.org/yahbible> — nothing to install. |
+
+### How it works offline
+When you install YahBible it downloads its Scripture packs into your device's private storage (OPFS in the browser) and registers a service worker for its code. After that the whole app — reading, search, word study, the library and the maps — runs with no connection at all. Nothing you read or study is sent anywhere; the packs simply live on your device.
 
 ---
 
-## Status
+## The editions
 
-**Pre-release** &mdash; tweaked and expanded daily, and it updates itself over the network. Report
-bugs from inside the app. Free, for the glory of **Yahweh Tsidkenu**.
+- **Web** — `realizeus.org/yahbible`, a full Progressive Web App (installable, offline).
+- **Desktop** — [OhBeOneKeyNoBe/YahBible](https://github.com/OhBeOneKeyNoBe/YahBible), the full-power edition with the AI guide.
+- **Android** — [OhBeOneKeyNoBe/YahBible-Mobile](https://github.com/OhBeOneKeyNoBe/YahBible-Mobile), the on-device phone edition.
+- **Packs & builds** — hosted here on Hugging Face and mirrored to the app.
 
-*&copy; RealizeUS*
+---
+
+*“Thy word is a lamp unto my feet, and a light unto my path.” — Psalm 119:105*
